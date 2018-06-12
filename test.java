@@ -4,4 +4,8 @@ public class Test{
     System.out.println("test");
     System.out.println("TEST2");
   }
+  
+  public int get(Integer id){
+    return id;
+  }
 }
