@@ -7,5 +7,8 @@ public class Test{
 
   public String getString(String str){
   	return str;
+  } 
+  public int get(Integer id){
+    return id;
   }
 }
